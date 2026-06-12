@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://ryanflow.cloud"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:oldking.yes@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:2919178903@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ryan-flow"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -67,7 +67,7 @@ AI 驱动的水墨诗画生成 — 输入关键词 → DeepSeek 作诗 → Canva
 ---
 
 <p align="center">
-  📧 <a href="mailto:oldking.yes@outlook.com">oldking.yes@outlook.com</a> · 
+  📧 <a href="mailto:2919178903@qq.com">2919178903@qq.com</a> · 
   🔗 <a href="https://ryanflow.cloud">Portfolio</a> · 
   🐙 <a href="https://github.com/ryan-flow">GitHub</a>
 </p>
