@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://oldking-yes.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://ryanflow.cloud"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:oldking.yes@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/oldking-yes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ryan-flow"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -37,37 +37,37 @@ AI 应用开发工程师 & AI 全栈开发 · 专注 LLM 集成 + 前端工程 +
 
 ## 📌 Featured Projects
 
-### 🏛️ [非遗文化传播系统](https://github.com/oldking-yes/heritage-crs-platform)
+### 🏛️ [非遗文化传播系统](https://github.com/ryan-flow/heritage-crs-platform)
 基于 CRS 对话推荐引擎与 AI 数字人的非遗文化传播平台 — 知识图谱 + 内容治理 + 智能推荐
 <br>`Python` `FastAPI` `React` `Neo4j` `SQLAlchemy` `微信小程序`
 
-### 📋 [PRD Agent RAG](https://github.com/oldking-yes/prd-agent-rag)
+### 📋 [PRD Agent RAG](https://github.com/ryan-flow/prd-agent-rag)
 产品需求文档 AI 生成器 — RAG 检索 + Agent 追问 → 结构化 PRD
 <br>`FastAPI` `PydanticAI` `ChromaDB` `DeepSeek` `React` `WebSocket`
 
-### 🧠 [Refine Yourself](https://github.com/oldking-yes/refine-yourself)
+### 🧠 [Refine Yourself](https://github.com/ryan-flow/refine-yourself)
 AI 人格克隆 — 上传聊天记录 → DeepSeek 提炼五层人格 → 可对话的数字分身
 <br>`Next.js` `Supabase` `DeepSeek` `TypeScript` `PostgreSQL` `shadcn/ui`
 
-### 🎮 [罗德岛干员人格测试](https://github.com/oldking-yes/arknights-personality-v2)
+### 🎮 [罗德岛干员人格测试](https://github.com/ryan-flow/arknights-personality-v2)
 明日方舟主题性格测试 PWA — 20 道情境题 → 5 维雷达图 → 16 位干员匹配
 <br>`React` `TypeScript` `Chart.js` `Framer Motion` `PWA` `i18n`
 
-### 🎨 [墨韵 · Ink Studio](https://github.com/oldking-yes/ink-studio)
+### 🎨 [墨韵 · Ink Studio](https://github.com/ryan-flow/ink-studio)
 AI 驱动的水墨诗画生成 — 输入关键词 → DeepSeek 作诗 → Canvas 实时渲染为水墨画
 <br>`Canvas` `SVG` `Cloudflare Workers` `DeepSeek API` `Web Audio`
 
 ---
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oldking-yes&show_icons=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=9CA3AF&bg_color=00000000" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldking-yes&layout=compact&hide_border=true&theme=transparent&title_color=3B82F6&text_color=9CA3AF&bg_color=00000000" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ryan-flow&show_icons=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=9CA3AF&bg_color=00000000" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-flow&layout=compact&hide_border=true&theme=transparent&title_color=3B82F6&text_color=9CA3AF&bg_color=00000000" />
 </p>
 
 ---
 
 <p align="center">
   📧 <a href="mailto:oldking.yes@outlook.com">oldking.yes@outlook.com</a> · 
-  🔗 <a href="https://oldking-yes.github.io/portfolio">Portfolio</a> · 
-  🐙 <a href="https://github.com/oldking-yes">GitHub</a>
+  🔗 <a href="https://ryanflow.cloud">Portfolio</a> · 
+  🐙 <a href="https://github.com/ryan-flow">GitHub</a>
 </p>
